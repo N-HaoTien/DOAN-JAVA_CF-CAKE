@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                                         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+ <session-factory name="">
+  <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+  <property name="hibernate.connection.password">123</property>
+  <property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=ElteeStore</property>
+  <property name="hibernate.connection.username">sa</property>
+  <property name="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</property>
+  <property name="hibernate.current_session_context_class">thread</property>
+  <mapping class="entities.ChiTietHoaDon"/>
+  <mapping class="entities.ChiTietHoaDonId"/>
+  <mapping class="entities.NhanVien"/>
+  <mapping class="entities.KhachHang"/>
+  <mapping class="entities.LoaiSp"/>
+  <mapping class="entities.SanPham"/>
+  <mapping class="entities.HoaDon"/>
+ </session-factory>
+</hibernate-configuration>

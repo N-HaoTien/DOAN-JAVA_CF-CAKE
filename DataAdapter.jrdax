@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>New Data Adapter 1</name>
+  <classpath>D:\C#\DoAn-CNPM\DoAn_Java\sqljdbc_9.4.0.0_enu\sqljdbc_9.4\enu\mssql-jdbc-9.4.0.jre11.jar</classpath>
+  <driver>net.sourceforge.jtds.jdbc.Driver</driver>
+  <username>sa</username>
+  <password>123</password>
+  <url>jdbc:jtds:sqlserver://localhost/ElteeStore</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>

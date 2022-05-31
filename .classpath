@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/jboss-logging-3.1.0.GA.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/javassist-3.18.1-GA.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/hibernate-core-4.2.21.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/hibernate-commons-annotations-4.0.2.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/dom4j-1.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-4.2.21.Final/lib/required/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-search-4.3.0.Final/dist/lib/required/slf4j-api-1.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-search-5.8.0.Final/dist/lib/optional/elasticsearch/commons-logging-1.1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/hibernate-release-5.6.0.Final/lib/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/sqljdbc_9.4.0.0_enu/sqljdbc_9.4/enu/mssql-jdbc-9.4.0.jre11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/ecj-3.21.0.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/itext-2.1.7.js9.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jackson-annotations-2.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jackson-core-2.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jackson-databind-2.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jackson-dataformat-xml-2.13.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jasperreports-6.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/C#/DoAn-CNPM/DoAn_Java/jar_files (3)/woodstox-core-6.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
